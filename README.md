@@ -1,4 +1,4 @@
-# NapCat Tester - AstrBot 全接口暴露插件
+# astrbot_plugin_napcat 全接口暴露插件
 
 > 版本: 2.0.0 | 收录 96 个 LLM Tool | OneBot V11 + go-cqhttp + NapCat 扩展
 
