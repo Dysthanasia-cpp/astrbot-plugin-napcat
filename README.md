@@ -101,3 +101,4 @@ AI语音: get_ai_record, get_ai_characters, send_group_ai_record
 - 通过 `event.bot.call_action()` 调用 OneBot 协议
 - 插件自动检测是否连接 aiocqhttp/NapCat 平台
 - 配置使用 AstrBot 标准 `_conf_schema.json` 机制
+- 所有代码均由ai编写
