@@ -2,4 +2,4 @@ name: napcat_allinone
 desc: NapCat/OneBot 全接口暴露插件。收录 OneBot V11 + go-cqhttp + NapCat 扩展全部 104 个 API，注册为 LLM function-calling 工具，Bot 可通过自然语言自由调用任意接口（禁言、踢人、改群名、发公告、戳一戳、点赞、AI语音等）。
 author: Dev
 version: 2.0.0
-repo: https://github.com/user/napcat-allinone
+repo: https://github.com/Dysthanasia-cpp/astrbot-plugin-napcat
